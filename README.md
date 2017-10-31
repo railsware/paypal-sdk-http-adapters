@@ -1,4 +1,4 @@
-# HTTP Adapters for PayPal SDK
+# HTTP Adapters for PayPal SDK[![Build Status](https://travis-ci.org/railsware/paypal-sdk-http-adapters.svg?branch=master)](https://travis-ci.org/railsware/paypal-sdk-http-adapters)
 
 This gem extends PayPal SDK and allows you to set specific http library.
 
